@@ -1,0 +1,31 @@
+1P1D300Lx100s111RK4dt0_03739442124379535m0_000548579909Ps1000closed
+simulation of quantum trajectories for confined particles
+-------------------------------------------------------------- summary
+  initial conditions: SEED1= 111
+                       mass= 0.056859429839995604 evfs^2/Ang^2
+                       mass= 0.000548580 AMU
+                          T= 300 Kelvin
+           classical vRMS1d= 0.6743275784910073 Ang/fs
+                         ax= 100 Ang
+               sweep period= 149.5776849751814 fs
+                    Nsweeps= 10
+                       Trun= 1495.776849752 fs
+                     dtObsv= 0.149577685 fs
+                      dtRK4= 0.037394421 fs
+        dtObsv subdivisions= 4.0  => # of loops per observation
+    total # of observations= 10000
+set of ICs as a controlled epsilon bubble
+  parity symmetry type: nx0= 1  dnx= 1
+        number of Cnm terms= 8
+maximum energy state: Emax = 0.24115050113209255 eV
+                   nSamples= 4
+----------------------------------------------------------------
+            simulation type= closed system
+                KEclassical= 0.012927494 eV
+     Copenhagen mean energy= 0.016474855 eV
+                mean BohmKE= 0.012365683 eV
+             mean quantumPE= -0.002651542 eV
+              aveBohmEnergy= 0.009714141 eV
+  number of energy outliers= 0
+Copenhagen/classical %error= -21.531972537750903
+  Copenhagen/Bohmian %error= -41.03656288722543
